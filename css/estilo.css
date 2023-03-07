@@ -47,7 +47,7 @@ section{
     margin-bottom: 80px;
 }
 section > p.secao2{
-    
+    padding-bottom: 2em;
 } 
 section > p{
     line-height: 2em;
